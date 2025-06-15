@@ -48,7 +48,7 @@ class _WelcomePageState extends State<WelcomePage> with TickerProviderStateMixin
           children: <Widget>[
            
             Text(
-              'Selamat Datang',
+              'Selamat Datangs',
               style: TextStyle(
                 fontSize: 32,
                 fontWeight: FontWeight.bold,
@@ -65,7 +65,7 @@ class _WelcomePageState extends State<WelcomePage> with TickerProviderStateMixin
             ),
             const SizedBox(height: 12),
             Text(
-              'Mari Mengenal\nHuruf Hijaiyah',
+              'Mari Mengenal\nHuruf Hijaiyahs',
               style: TextStyle(
                 fontSize: 30,
                 fontWeight: FontWeight.bold,
